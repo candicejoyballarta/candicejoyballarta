@@ -17,13 +17,14 @@
 ![vscode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg 'Visual Studio Code')
 ![html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg 'HTML')
 ![css3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'CSS3')
-![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'Javascript')
-![reactjs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'ReactJS')
-![nodejs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'NodeJS')
-![mongodb](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'MongoDB')
-![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'MySQL')
-![git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'Git')
-![github](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg 'Github')
+![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg 'Javascript')
+![reactjs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg 'ReactJS')
+![nodejs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg 'NodeJS')
+![mongodb](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg 'MongoDB')
+![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg 'MySQL')
+![git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg 'Git')
+![github](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png 'Github')
+[github]: https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png "Github"
 
 ---
 
