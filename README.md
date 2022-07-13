@@ -1,4 +1,4 @@
-### Hi there, I'm Candice. You can just call me _ice_\*\*.
+### Hi there, I'm Candice. You can just call me _ice_.
 
 ## I'm a Full Stack Web Developer and a Kpop fan.
 
