@@ -2,8 +2,8 @@
 
 ## I'm a Full Stack Web Developer and a Kpop fan.
 
--   👩‍💻 I'm currently an IT Intern on Jellyfish Education Philippines Inc.
--   🌱 I'm currently learning and working on Wordpress and ReactJS projects.
+-   👩‍💻 I'm based in the Philippines.
+-   🌱 I'm currently learning and working on some projects.
 -   🥅 2022 Goals: To be consistent in coding/contributing
 -   ⚡ Fun fact: I love watching Netflix shows like Stranger Things, The Umbrella Academy and Bojack Horseman
 
