@@ -5,8 +5,8 @@
 -   👩‍💻 I'm based in the Philippines.
 -   🚀 I'm currently working as a Junior Software Engineer in Collabera Digital.
 -   🌱 I'm currently learning and working on some projects.
--   🥅 2022 Goals: To be consistent in coding/contributing.
--   ⚡ Fun fact: I love watching Netflix shows like Stranger Things, The Umbrella Academy and Bojack Horseman
+-   🥅 2023 Goal: To be consistent in coding/contributing.
+-   ⚡ Fun fact: I love watching Netflix shows like Stranger Things, Spy x Family and Bojack Horseman
 
 ### Connect with me:
 
