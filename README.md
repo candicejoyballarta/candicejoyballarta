@@ -36,3 +36,7 @@
 ### Github Stats
 
 [![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candicejoyballarta&show_icons=true&theme=tokyonight)](https://github.com/candicejoyballarta/github-readme-stats)
+
+### Codewars Stats
+
+[!](https://www.codewars.com/users/candicejoyballarta/badges/large)
