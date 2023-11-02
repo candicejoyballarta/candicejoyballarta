@@ -39,4 +39,4 @@
 
 ### Codewars Stats
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=candicejoyballarta)](https://github.com/candicejoyballarta/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=candicejoyballarta&theme=dark)](https://github.com/candicejoyballarta/github-readme-codewars)
