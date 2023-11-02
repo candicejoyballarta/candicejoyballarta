@@ -39,4 +39,4 @@
 
 ### Codewars Stats
 
-[!](https://www.codewars.com/users/candicejoyballarta/badges/large)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=candicejoyballarta)](https://github.com/candicejoyballarta/github-readme-codewars)
