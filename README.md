@@ -38,4 +38,4 @@
 [![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candicejoyballarta&show_icons=true&theme=tokyonight)](https://github.com/candicejoyballarta/github-readme-stats)
 
 ### Codewars Stats
-[![Candice's Codewars stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=candicejoyballarta&card&colormode=dark_mode)
+[!](https://github-readme-codewars-stats.herokuapp.com/api/?username=candicejoyballarta&card&colormode=dark_mode)
