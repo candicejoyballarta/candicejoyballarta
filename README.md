@@ -4,9 +4,9 @@
 
 -   👩‍💻 I'm based in the Philippines.
 -   🚀 I'm currently working as a Junior Software Engineer in Collabera Digital.
--   🌱 I'm currently learning and working on some projects.
--   🥅 2023 Goal: To be consistent in coding/contributing.
--   ⚡ Fun fact: I love watching Netflix shows like Stranger Things, Spy x Family and Bojack Horseman
+-   🌱 I'm currently learning NextJS
+-   🥅 2024 Goal: To create dynamic and scallable fullstack apps
+-   ⚡ Fun fact: I am currently obsessed with Stardew Valley and Sims 4
 
 ### Connect with me:
 
@@ -29,14 +29,3 @@
 <img align="left" alt="Figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;" />
 
 <br />
-<br />
-
----
-
-### Github Stats
-
-[![Candice's GitHub stats](https://github-readme-stats.vercel.app/api?username=candicejoyballarta&show_icons=true&theme=tokyonight)](https://github.com/candicejoyballarta/github-readme-stats)
-
-### Codewars Stats
-
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=candicejoyballarta&theme=dark)](https://github.com/candicejoyballarta/github-readme-codewars)
