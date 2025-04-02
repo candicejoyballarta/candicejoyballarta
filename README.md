@@ -5,8 +5,7 @@
 -   👩‍💻 I'm based in the Philippines.
 -   🚀 I'm currently working as a Junior Software Engineer in Collabera Digital.
 -   🌱 I'm currently learning NextJS
--   🥅 2024 Goal: To create dynamic and scallable fullstack apps
--   ⚡ Fun fact: I am currently obsessed with Stardew Valley and Sims 4
+-   ⚡ Fun fact: I am currently obsessed with Friendly Rivalry and Valorant
 
 ### Connect with me:
 
