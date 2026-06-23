@@ -3,7 +3,7 @@
 ## I'm a Full Stack Web Developer and a Kpop fan.
 
 -   👩‍💻 I'm based in the Philippines.
--   🚀 I'm currently working as an Analyst Programmer at Essilor.
+-   🚀 I'm currently working as an Senior Software Engineer at QStrike Innovations OPC.
 -   🌱 I'm currently learning NextJS
 -   ⚡ Fun fact: I am currently obsessed with Friendly Rivalry and Valorant
 
